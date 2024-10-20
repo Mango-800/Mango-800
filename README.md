@@ -37,7 +37,7 @@
 - member of "BAJA SAE Puma off-road" 🛞
 - SIAFI's member (Artifitial Inteligence Society)
 - Nikkei (Mexico-Japan)
-- Japanese Teacher :jp:
+- Japanese Teacher 🗾
 - A learner force (CliftonStrengths)
 - Papas con queso enjoyer 🍟
 
