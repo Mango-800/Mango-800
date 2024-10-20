@@ -1,10 +1,10 @@
 <p align="center" style="display: flex; justify-content: center;">
-    <img src="https://media4.giphy.com/media/zX5Lf9WcW6ojm/giphy.gif" width="5%" style="margin: 0;" />
+    <img src="https://i0.wp.com/totemanimal.org/wp-content/uploads/2013/02/0121.gif?resize=216%2C159&ssl=1" width="10%" style="margin: 0;" />
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&duration=2000&pause=500&color=E66FFF&center=true&vCenter=true&width=435&lines=%F0%9F%90%89I%27m+Tatsuki+%F0%9F%90%89;%F0%9F%90%88Welcome+to+my+profile!+%3AD%F0%9F%90%88"
             alt="Typing SVG" style="margin: 0;" />
     </a>
-    <img src="https://media1.giphy.com/media/NKcHjb5vYSE3E0H4ug/giphy.gif" width="5%" style="margin: 0;" />
+    <img src="https://vignette2.wikia.nocookie.net/sidekicksmanhwa/images/3/3c/Flaming_Charizard.gif/revision/latest?cb=20150516182704" width="10%" style="margin: 0;" />
 </p>
 
 
